@@ -4,6 +4,10 @@
 
 [2016 Election and Demographic Data](https://public.opendatasoft.com/explore/dataset/usa-2016-presidential-election-by-county/export/?disjunctive.state)
 
+## Energy Production Data
+
+* [OECD: Crude Oil Production](https://data.oecd.org/energy/crude-oil-production.htm#indicator-chart). Links to nuclear power and others on this page as well.
+
 ## IRS Data
 
 * [IRS Data](https://www.reddit.com/r/datasets/comments/ewx2wq/7_years_of_irs_tax_return_data_aggregated_by_zip/)
