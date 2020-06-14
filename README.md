@@ -27,3 +27,7 @@
 
 * [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.CD)
 * [OECD](https://data.oecd.org/industry/tourism-gdp.htm)
+
+## Hate Crime Data
+
+* [UCR: Hate Crimes 2016](https://ucr.fbi.gov/hate-crime/2016/tables/table-1)
